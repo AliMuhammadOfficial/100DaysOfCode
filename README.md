@@ -1,7 +1,12 @@
 # 100DaysOfCode
+
 A repository for 100-days-of-code challenge
 
-## Goals 
+## Goals
+
 > First Week
+
 - [ ] Learn Three.js
-  - [ ] Instalation and setup
+  - [x] Day 1
+    - [x] Learn Three.js basics
+    - [x] Instalation and setup of Three.js
